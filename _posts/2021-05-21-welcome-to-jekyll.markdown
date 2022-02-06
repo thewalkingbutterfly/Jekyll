@@ -1,6 +1,6 @@
 ---
-layout: post
+layout: How I became a programmer
 title:  "Site under construction!"
-date:   2021-05-21 13:37:05 +0200
+date:   2022-02-06 13:37:05 +0200
 categories: update
 ---
